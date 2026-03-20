@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Matheusdiasz2007/Matheusdiasz2007/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matheusdiasz2007/matheusdiasz2007/output/snake.svg" alt="Animação de cobra" />
 
 ###
 
