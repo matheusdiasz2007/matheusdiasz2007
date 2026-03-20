@@ -2,7 +2,7 @@
 
 <br clear="both">
  
-<h2 align="center">🟢  Sobre Mim </h2>
+<h2 align="center">🟩  Sobre Mim  </h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h2 align="center">🔴 Hard skills </h2>
+<h2 align="center">🔺  Hard skills  </h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<h2 align="center"> 🟡 Soft Skills</h2>
+<h2 align="center"> 🟡 Soft Skills </h2>
 
 ###
 
