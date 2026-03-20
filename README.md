@@ -1,5 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FCEB6&vCenter=true&width=435&lines=Software+Engineer⚙️;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
+<br clear="both">
  
 <h2 align="center">Sobre Mim!</h2>
 
@@ -18,6 +19,9 @@
 ###
 
 <div align="center">
+
+ <br clear="both">
+ 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -38,5 +42,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+<br clear="both">
+
+<h2 align="center">Soft Skills</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">🗣️ Comunicação - saber se expressar com clareza <br><br>🤝 Trabalho em equipe - colaborar e lidar bem com diferentes pessoas<br><br> 🧘 Inteligência emocional - controlar emoções e entender os outros.<br><br>🧩 Resolução de problemas - pensar de forma lógica e criativa.<br><br> 🌱Adaptabilidade - lidar com mudanças e imprevistos.<br><br> ⏳ Gestão do tempo - organizar tarefas e cumprir prazos.<br><br> 🚀 Liderança - influenciar e motivar pessoas.<br><br> 🧠 Pensamento crítico - analisar situações antes de tomar decisões.</p>
+
+###
 
 ###
