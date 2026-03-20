@@ -2,7 +2,7 @@
 
 <br clear="both">
  
-<h2 align="center">🟢  Ssobre Mim </h2>
+<h2 align="center">🟢  Sobre Mim </h2>
 
 ###
 
