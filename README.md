@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<p align="left">🗣️ Comunicação - saber se expressar com clareza <br><br>🤝 Trabalho em equipe - colaborar e lidar bem com diferentes pessoas<br><br> 🧘 Inteligência emocional - controlar emoções e entender os outros.<br><br>🧩 Resolução de problemas - pensar de forma lógica e criativa.<br><br> 🌱Adaptabilidade - lidar com mudanças e imprevistos.<br><br> ⏳ Gestão do tempo - organizar tarefas e cumprir prazos.<br><br> 🚀 Liderança - influenciar e motivar pessoas.<br><br> 🧠 Pensamento crítico - analisar situações antes de tomar decisões.</p>
+<p align="left">🗣️ Comunicação - saber se expressar com clareza <br><br>🤝 Trabalho em equipe - colaborar e lidar bem com diferentes pessoas<br><br> 🧘 Inteligência emocional - controlar emoções e entender os outros.<br><br>🧩 Resolução de problemas - pensar de forma lógica e criativa.<br><br> 🌱Adaptabilidade - lidar com mudanças e imprevistos.<br><br> ⏳ Gestão do tempo - organizar tarefas e cumprir prazos. <br><br> 🧠 Pensamento crítico - analisar situações antes de tomar decisões.</p>
 
 ###
 <div align="center">
