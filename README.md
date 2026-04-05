@@ -8,7 +8,7 @@
 
 <br clear="both">
  
-<p align="center">Prazer, tenho 19 anos resido em São Paulo, Brasil sou estudante de Engenharia de Software da Universidade São Judas Tadeu, possuo muito interesse na área de Desenvolvimento de sistemas, Back End-Front End e também cibersegurança. os meus conhecimentos estão aprofundados em criação de sites com frameworks; react js, banco de dados , SQL, Django-Python..</p>
+<p align="left">Prazer, tenho 19 anos resido em São Paulo, Brasil sou estudante de Engenharia de Software da Universidade São Judas Tadeu, possuo muito interesse na área de Desenvolvimento de sistemas, Back End-Front End e também cibersegurança. os meus conhecimentos estão aprofundados em criação de sites com frameworks; react js, banco de dados , SQL, Django-Python. </p>
 
 ###
 
