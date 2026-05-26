@@ -1,4 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FCEB6&vCenter=true&width=435&lines=Software+Engineer⚙️;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0F0F,50:1E3A5F,100:E10600&text=Software%20Engineer%20%7C%20Desenvolvedor%20FullStack&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
+
+</div>
 
 <br clear="both">
  
