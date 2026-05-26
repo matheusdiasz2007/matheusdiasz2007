@@ -14,9 +14,9 @@
  
 
 
-Profissional em formação na área de Engenharia de Software, 19 anos, estudante da Universidade São Judas Tadeu (São Paulo – Brasil).
+Profissional em formação na área de Engenharia de Software, 19 anos, estudante da Universidade São Judas Tadeu (São Paulo – Brasil);
 
-Tenho interesse em desenvolvimento de sistemas com foco em Back-End, Front-End e cibersegurança. Possuo experiência no desenvolvimento de aplicações web utilizando Bootstrap, Django (Python) e integração com bancos de dados SQL.
+Tenho interesse em desenvolvimento de sistemas com foco em Back-End, Front-End e cibersegurança. Possuo experiência no desenvolvimento de aplicações web utilizando Bootstrap, Django (Python) e integração com bancos de dados SQL;
 
 Busco oportunidade de estágio ou áreas correlatas para aplicar e expandir conhecimentos técnicos em ambientes reais de desenvolvimento.
 
