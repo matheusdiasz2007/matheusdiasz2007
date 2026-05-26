@@ -61,13 +61,3 @@ Profissional em formação na área de Engenharia de Software, 19 anos, estudant
 <p align="left">🗣️ Comunicação - saber se expressar com clareza <br><br>🤝 Trabalho em equipe - colaborar e lidar bem com diferentes pessoas<br><br> 🧘 Inteligência emocional - controlar emoções e entender os outros.<br><br>🧩 Resolução de problemas - pensar de forma lógica e criativa.<br><br> 🌱Adaptabilidade - lidar com mudanças e imprevistos.<br><br> ⏳ Gestão do tempo - organizar tarefas e cumprir prazos. <br><br> 🧠 Pensamento crítico - analisar situações antes de tomar decisões.</p>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matheusdiasz2007/matheusdiasz2007/output/snake.svg" alt="Animação de cobra" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  
-</div>
