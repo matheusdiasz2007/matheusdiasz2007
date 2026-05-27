@@ -4,19 +4,6 @@
 
 </div>
 
-<br clear="both">
- 
-<h2 align="center">  Sobre Mim:  </h2>
-
-###
-
-<br clear="both">
- 
-
-
-Profissional em formação na área de Engenharia de Software, 19 anos, estudante da Universidade São Judas Tadeu (São Paulo – Brasil) Tenho interesse em desenvolvimento de sistemas com foco em Back-End, Front-End e cibersegurança. Possuo experiência no desenvolvimento de aplicações web utilizando Bootstrap, Django (Python) e integração com bancos de dados SQL.
-
-
 ###
 
 <br clear="both">
