@@ -20,14 +20,5 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
 </p>
 
-<br clear="both">
-
-<h2 align="center">  Soft Skills: </h2>
-
-###
-
-<br clear="both">
-
-<p align="left">🗣️ Comunicação - saber se expressar com clareza <br><br>🤝 Trabalho em equipe - colaborar e lidar bem com diferentes pessoas<br><br> 🧘 Inteligência emocional - controlar emoções e entender os outros.<br><br>🧩 Resolução de problemas - pensar de forma lógica e criativa.<br><br> 🌱Adaptabilidade - lidar com mudanças e imprevistos.<br><br> ⏳ Gestão do tempo - organizar tarefas e cumprir prazos. <br><br> 🧠 Pensamento crítico - analisar situações antes de tomar decisões.</p>
 
 ###
