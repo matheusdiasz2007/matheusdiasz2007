@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center">  Hard skills:  </h2>
+<h1 align="center">  Hard skills:  </h1>
 
 ###
 
