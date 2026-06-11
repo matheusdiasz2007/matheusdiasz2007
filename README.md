@@ -20,6 +20,6 @@
 - Databases
 - Web Development
 - Industrial Automation and Control
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (POO)
 
 ---
