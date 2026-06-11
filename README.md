@@ -1,24 +1,28 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0F0F,50:1E3A5F,100:E10600&text=Software%20Engineer%20%7C%20Desenvolvedor%20de%20Software&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
 
 </div>
 
-###
+---
 
-<br clear="both">
 
-<h1 align="center">  Hard skills:  </h1>
+# Hard skills - Technical skills
 
-###
-
-<div align="center">
-
- <br clear="both">
- 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
-</p>
+
+---
 
 
-###
+
+## 💻 Estudando e desenvolvendo projetos com foco em:
+
+- Programação Orientada a Objetos (POO)
+- Desenvolvimento Web
+- Engenharia de Software
+- Estruturas de Dados e Algoritmos
+- Banco de Dados
+- Automação e Controle Industrial
+
+---
