@@ -7,22 +7,19 @@
 
 ---
 
-
-# Hard skills - Technical skills
+# Hard skills - Technical skills:
 
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
 
 ---
 
+# 💻 Studying and developing projects focused on:
 
-
-## 💻 Estudando e desenvolvendo projetos com foco em:
-
-- Programação Orientada a Objetos (POO)
-- Desenvolvimento Web
-- Engenharia de Software
-- Estruturas de Dados e Algoritmos
-- Banco de Dados
-- Automação e Controle Industrial
+- Software Engineering
+- Data Structures and Algorithms
+- Databases
+- Web Development
+- Industrial Automation and Control
+- Object-Oriented Programming (OOP)
 
 ---
