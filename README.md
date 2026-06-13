@@ -15,11 +15,16 @@
 
 # 💻 Studying and developing projects focused on:
 
-- Software Engineering
 - Data Structures and Algorithms
 - Databases
 - Web Development
 - Industrial Automation and Control
 - Object-Oriented Programming (POO)
+
+---
+
+# 🎓 Formation
+
+- Bachelor's degree in Software Engineering - USJT
 
 ---
