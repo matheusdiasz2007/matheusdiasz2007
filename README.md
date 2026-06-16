@@ -13,7 +13,7 @@
 
 ---
 
-# 💻 Studying and developing projects focused on:
+# 💻 Developing projects with a focus on:
 
 - Data Structures and Algorithms
 - Databases
