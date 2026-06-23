@@ -5,6 +5,11 @@
 
 </div>
 
+
+# 👨‍💻 About Me:
+
+My name is Matheus, I am 19 years old, and I am interested in software development, data science, software architecture, and process automation.
+
 ---
 
 # Hard skills - Technical skills:
