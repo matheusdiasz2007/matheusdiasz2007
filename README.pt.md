@@ -8,8 +8,9 @@
 
 Meu nome é Matheus, tenho 19 anos e sou estudante de Engenharia de Software. Tenho interesse em desenvolvimento de software, ciência de dados, arquitetura de software e automação de processos.
 
-🇧🇷 Esta é a versão em Português (Brasil). <br>
-🌐 Veja a versão em Inglês (EN).
+🇧🇷 Esta é a versão em Português. <br>
+🌐 Veja a versão em Inglês - ([EN](README.md)).
+</br>
 
 ---
 
