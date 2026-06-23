@@ -39,7 +39,11 @@ My name is Matheus, I am 19 years old, and I am interested in software developme
 
 ---
 
-<h1 align="center"> 📊 GitHub Stats </h1>
+<h1> 📊 GitHub Stats </h1> 
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100"/>
+</div>
 
 <div align="center">
 
