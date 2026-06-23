@@ -9,8 +9,10 @@
 
 My name is Matheus, I am 19 years old, and I am interested in software development, data science, software architecture, and process automation.
 
-🌐 This is the English version - EN <br>
-🇧🇷 See the Portuguese (Brazil) version.
+🌐 This is the English version - EN 
+<br>
+🇧🇷 See the Portuguese (Brazil) version. [PT-BR](README.pt.md)
+</br>
 
 ---
 
