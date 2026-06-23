@@ -37,3 +37,13 @@ My name is Matheus, I am 19 years old, and I am interested in software developme
 - Bachelor's degree in Software Engineering - USJT
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
