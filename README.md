@@ -1,6 +1,6 @@
-# 👨‍💻 About Me:
+<h1 align="center">  👨‍💻 About Me: </h1>  
 
-My name is Matheus, I am 19 years old, and I am interested in software development, data science, software architecture, and process automation.
+<p align="center"> My name is Matheus, I am 19 years old, and I am interested in software development, data science, software architecture, and process automation. </p>  
 
 🌐 This is the English version - EN 
 <br>
