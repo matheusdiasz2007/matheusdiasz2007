@@ -41,7 +41,7 @@ Meu nome é Matheus, tenho 19 anos e sou estudante de Engenharia de Software. Te
 <h1> 📊 GitHub Status </h1> 
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100"/>
+<img src="https://cdn.simpleicons.org/github/white" width="100">
 </div>
 
 <div align="center">
