@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 # 👨‍💻 Sobre Mim
 
 Meu nome é Matheus, tenho 19 anos e sou estudante de Engenharia de Software. Tenho interesse em desenvolvimento de software, ciência de dados, arquitetura de software e automação de processos.
@@ -33,5 +35,23 @@ Meu nome é Matheus, tenho 19 anos e sou estudante de Engenharia de Software. Te
 # 🎓 Formação
 
 - Bacharelado em Engenharia de Software — Universidade São Judas Tadeu (USJT)
+
+---
+
+<h1> 📊 GitHub Status </h1> 
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100"/>
+</div>
+
+<div align="center">
+
+| Estastisticas | Status |
+|-------------|--------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
+
+</div>
+
+---
 
 ---
