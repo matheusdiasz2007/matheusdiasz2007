@@ -19,7 +19,9 @@
 
 - Data Structures and Algorithms
 - Databases
-- Web Development
+- [Web Development](https://github.com/matheusdiasz2007/WebDevelopment-Projects) - Projects focused on Front-End & Back-End development. Click on "Web Development" to access my projects.
+
+  
 - Industrial Automation and Control
 - Object-Oriented Programming (POO)
 
