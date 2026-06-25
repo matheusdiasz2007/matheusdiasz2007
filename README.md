@@ -1,6 +1,6 @@
 <h1 align="center">  👨‍💻 About Me: </h1>  
 
-<p align="center"> My name is Matheus, I am 19 years old, and I am interested in software development, data science, software architecture, and process automation. </p>  
+<p align="center"> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
 
 🌐 This is the English version - EN 
 <br>
