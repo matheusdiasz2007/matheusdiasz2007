@@ -12,10 +12,8 @@ Estudante de Engenharia de Software com interesse em Desenvolvimento de Software
 
 # 🛠️ Hard Skills - Competências Técnicas
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
-</div>
-
+  
 ---
 
 # 💻 Desenvolvimento de Projetos com Foco em
