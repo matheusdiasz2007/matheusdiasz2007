@@ -9,7 +9,7 @@
 
 ---
 
-# Hard skills - Technical skills:
+# 🛠️ Hard skills - Technical skills:
 
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
 
