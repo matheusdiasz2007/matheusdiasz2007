@@ -1,48 +1,44 @@
-<h1 align="center">👨‍💻 Sobre Mim</h1>
+<h1 align="center">  👨‍💻 About Me: </h1>  
 
-<p align="center">
-Estudante de Engenharia de Software com interesse em Desenvolvimento de Software, Ciência de Dados, Machine Learning, Arquitetura de Software e Automação de Processos. Focado na aplicação de abordagens analíticas e princípios de engenharia para o desenvolvimento, otimização e manutenção de soluções de software.
-</p>
+<p align="center"> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
 
-🇧🇷 Esta é a versão em Português (Brasil) - PT-BR  
+🌐 This is the English version - EN 
 <br>
-🌐 Veja a versão em inglês. [EN](README.md)
+🇧🇷 See the Portuguese (Brazil) version. [PT-BR](README.pt.md)
 </br>
 
 ---
 
-# 🛠️ Hard Skills - Competências Técnicas
+# Hard skills - Technical skills:
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
-</div>
 
 ---
 
-# 💻 Desenvolvimento de Projetos com Foco em
+# 💻 Developing projects with a focus on:
 
-- [Desenvolvimento Web](https://github.com/matheusdiasz2007/WebDevelopment-Projects) – Projetos voltados para desenvolvimento Front-End e Back-End. Clique em **"Desenvolvimento Web"** para acessar os projetos.
-- Estruturas de Dados e Algoritmos
-- Banco de Dados
-- Automação e Controle Industrial
-- Programação Orientada a Objetos (POO)
+- [Web Development](https://github.com/matheusdiasz2007/WebDevelopment-Projects) - Projects focused on Front-End & Back-End development. Click on "Web Development" to access my projects.
+- Data Structures and Algorithms
+- Databases
+- Industrial Automation and Control
+- Object-Oriented Programming (POO)
 
 ---
 
-# 🎓 Formação Acadêmica
+# 🎓 Formation
 
-- Bacharelado em Engenharia de Software – Universidade São Judas Tadeu (USJT)
+- Bachelor's degree in Software Engineering - USJT
 
 ---
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/github/brown" width="100">
+<img src="https://cdn.simpleicons.org/github/brown" width="100">
 </div>
 
 <div align="center">
 
-| Estatísticas | Sequência de Contribuições |
-|-------------|---------------------------|
+| Statistics | Streak |
+|-------------|--------|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
 
 </div>
