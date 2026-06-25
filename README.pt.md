@@ -1,53 +1,48 @@
-<div align="center">
+<h1 align="center">👨‍💻 Sobre Mim</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0F0F,50:1E3A5F,100:0F0F0F&text=Engenharia%20de%20Software&fontColor=F5F5F5&fontSize=35&animation=fadeIn&fontAlign=50&fontAlignY=40"/>
+<p align="center">
+Estudante de Engenharia de Software com interesse em Desenvolvimento de Software, Ciência de Dados, Machine Learning, Arquitetura de Software e Automação de Processos. Focado na aplicação de abordagens analíticas e princípios de engenharia para o desenvolvimento, otimização e manutenção de soluções de software.
+</p>
 
-</div>
-
----
-
-# 👨‍💻 Sobre Mim
-
-Meu nome é Matheus, tenho 19 anos e sou estudante de Engenharia de Software. Tenho interesse em desenvolvimento de software, ciência de dados, arquitetura de software e automação de processos.
-
-🇧🇷 Esta é a versão em Português. <br>
-🌐 Veja a versão em Inglês - ([EN](README.md)).
+🇧🇷 Esta é a versão em Português (Brasil) - PT-BR  
+<br>
+🌐  Veja a versão em inglês. [EN](README.md)
 </br>
 
 ---
 
 # 🛠️ Hard Skills - Competências Técnicas
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
+</div>
 
 ---
 
-# 💻 Desenvolvendo projetos com foco em:
+# 💻 Desenvolvimento de Projetos com Foco em
 
+- [Desenvolvimento Web](https://github.com/matheusdiasz2007/WebDevelopment-Projects) – Projetos voltados para desenvolvimento Front-End e Back-End. Clique em **"Desenvolvimento Web"** para acessar os projetos.
 - Estruturas de Dados e Algoritmos
-- Bancos de Dados
-- Desenvolvimento Web
+- Banco de Dados
 - Automação e Controle Industrial
 - Programação Orientada a Objetos (POO)
 
 ---
 
-# 🎓 Formação
+# 🎓 Formação Acadêmica
 
-- Bacharelado em Engenharia de Software — Universidade São Judas Tadeu (USJT)
+- Bacharelado em Engenharia de Software – Universidade São Judas Tadeu (USJT)
 
 ---
 
-<h1> 📊 GitHub Status </h1> 
-
 <div align="center">
-<img src="https://cdn.simpleicons.org/github/white" width="100">
+  <img src="https://cdn.simpleicons.org/github/brown" width="100">
 </div>
 
 <div align="center">
 
-| Estastisticas | Status |
-|-------------|--------|
+| Estatísticas | Sequência de Contribuições |
+|-------------|---------------------------|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
 
 </div>
