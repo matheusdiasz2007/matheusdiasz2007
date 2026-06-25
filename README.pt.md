@@ -5,7 +5,6 @@ Estudante de Engenharia de Software com interesse em Desenvolvimento de Software
 </p>
 
 🇧🇷 Esta é a versão em Português (Brasil) - PT-BR  
-<br>
 🌐  Veja a versão em inglês. [EN](README.md)
 </br>
 
