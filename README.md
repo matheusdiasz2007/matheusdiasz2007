@@ -1,6 +1,20 @@
-<h1 align="center">  👨‍💻 About Me: </h1>  
+<div align="center">
+<img src="https://cdn.simpleicons.org/github/brown" width="100">
+</div>
 
-<p align="center"> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
+<div align="center">
+
+| Statistics | Streak |
+|-------------|--------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
+
+</div>
+
+---
+
+<h1>  👨‍💻 About Me: </h1>  
+
+<p> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
 
 🌐 This is the English version - EN 
 <br>
@@ -28,19 +42,5 @@
 # 🎓 Formation
 
 - Bachelor's degree in Software Engineering - USJT
-
----
-
-<div align="center">
-<img src="https://cdn.simpleicons.org/github/brown" width="100">
-</div>
-
-<div align="center">
-
-| Statistics | Streak |
-|-------------|--------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
-
-</div>
 
 ---
