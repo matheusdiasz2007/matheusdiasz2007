@@ -25,7 +25,7 @@
 
 # 🛠️ Hard skills - Technical skills:
 
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,django,bootstrap,git,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,docker,git,aws,windows,linux,vscode,idea" />
 
 ---
 
