@@ -1,6 +1,20 @@
-<h1 align="center">👨‍💻 Sobre Mim</h1>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/github/brown" width="100">
+</div>
 
-<p align="center">
+<div align="center">
+
+| Estatísticas | Sequência de Contribuições |
+|-------------|---------------------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
+
+</div>
+
+---
+
+<h1> 👨‍💻 Sobre Mim </h1>
+
+<p>
 Estudante de Engenharia de Software com interesse em Desenvolvimento de Software, Ciência de Dados, Machine Learning, Arquitetura de Software e Automação de Processos. Focado na aplicação de abordagens analíticas e princípios de engenharia para o desenvolvimento, otimização e manutenção de soluções de software.
 </p>
 
@@ -18,7 +32,7 @@ Estudante de Engenharia de Software com interesse em Desenvolvimento de Software
 
 # 💻 Desenvolvimento de Projetos com Foco em
 
-- [Desenvolvimento Web](https://github.com/matheusdiasz2007/WebDevelopment-Projects) – Projetos voltados para desenvolvimento Front-End e Back-End. Clique em **"Desenvolvimento Web"** para acessar os projetos.
+- [Desenvolvimento Web](https://github.com/matheusdiasz2007/SoftwareEngineering-Projects/blob/main/README.pt.md/WebDevelopment.md) – Projetos voltados para desenvolvimento Front-End e Back-End. Clique em **"Desenvolvimento Web"** para acessar os projetos.
 - Estruturas de Dados e Algoritmos
 - Banco de Dados
 - Automação e Controle Industrial
@@ -29,19 +43,5 @@ Estudante de Engenharia de Software com interesse em Desenvolvimento de Software
 # 🎓 Formação Acadêmica
 
 - Bacharelado em Engenharia de Software – Universidade São Judas Tadeu (USJT)
-
----
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/github/brown" width="100">
-</div>
-
-<div align="center">
-
-| Estatísticas | Sequência de Contribuições |
-|-------------|---------------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true" /> |
-
-</div>
 
 ---
