@@ -63,5 +63,3 @@
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true&zone=America/Sao_Paulo" /> |
 
 </div>
-
----
