@@ -47,19 +47,3 @@
   <a href="mailto:matheus108532@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
----
-
-</div>
-
-<div align="center">
-<img src="https://cdn.simpleicons.org/github/brown" width="100">
-</div>
-
-<div align="center">
-  
-| Statistics | Streak |
-|-------------|--------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdiasz2007&layout=donut&theme=github_dark" /> | <img src="https://streak-stats.demolab.com?user=matheusdiasz2007&theme=github-dark-blue&hide_border=true&zone=America/Sao_Paulo" /> |
-
-</div>
