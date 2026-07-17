@@ -31,7 +31,7 @@
 
 # 🎓 Formation
 
-- Bachelor's degree in Software Engineering - USJT
+- Bachelor's degree in Software Engineering - USJT (in progress).
 
 ---
 
