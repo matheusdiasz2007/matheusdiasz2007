@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://cdn.simpleicons.org/github/brown" width="100">
+</div>
+
 <h1>  👨‍💻 About Me: </h1>  
 
 <p> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
