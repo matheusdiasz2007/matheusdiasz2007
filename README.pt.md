@@ -24,10 +24,7 @@
 # 💻 Desenvolvendo projetos com foco em
 
 - [Desenvolvimento Web](https://github.com/matheusdiasz2007/SoftwareEngineering-Projects/blob/main/README.pt.md/WebDevelopment.md) - Projetos focados em desenvolvimento Front-End & Back-End. Clique em "Desenvolvimento Web" para acessar meus projetos.
-- Estruturas de Dados e Algoritmos
-- Bancos de Dados
 - Automação e Controle Industrial
-- Programação Orientada a Objetos (POO)
 
 ---
 
