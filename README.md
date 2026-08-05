@@ -29,4 +29,4 @@
 # 🎓 Formation
 
 - Bachelor's degree in Software Engineering - USJT (in progress).
-- [Academic curriculum](https://buscatextual.cnpq.br/buscatextual/visualizacv.do) - Curriculum CNPQ. Click on "Academic Curriculum" to access my academic professional career.
+- [Academic curriculum](http://lattes.cnpq.br/6900029057565501) - Curriculum CNPQ. Click on "Academic Curriculum" to access my academic professional career.
