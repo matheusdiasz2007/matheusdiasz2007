@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://cdn.simpleicons.org/github/brown" width="100">
-</div>
 
----
 
 <h1>  👨‍💻 Sobre Mim: </h1>  
 
