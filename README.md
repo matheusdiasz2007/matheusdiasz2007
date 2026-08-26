@@ -4,9 +4,7 @@
 <p> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
 
 🌐 This is the English version - EN 
-<br>
-🇧🇷 See the Portuguese (Brazil) version. [PT-BR](README.pt.md)
-</br>
+
 
 ---
 
