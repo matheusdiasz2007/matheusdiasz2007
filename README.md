@@ -8,8 +8,6 @@
 
 ---
 
-# 🛠️ Hard skills - Technical skills
-
   <img src="https://skillicons.dev/icons?i=python,js,java,c,docker,git,aws,windows,linux,vscode,idea" />
 
 ---
