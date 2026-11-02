@@ -1,3 +1,4 @@
+<img src=".github/workflows/Black and White Futuristic AI Technology Banner.gif " width="1280" height="400" />
 
 <h1>  👨‍💻 About Me: </h1>  
 
