@@ -1,5 +1,3 @@
-<img src=".github/workflows/Black and White Futuristic AI Technology Banner.gif " width="1280" height="400" />
-
 <h1>  👨‍💻 About Me: </h1>  
 
 <p> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
@@ -19,8 +17,3 @@
 - Data Science
 
 ---
-
-# 🎓 Formation
-
-- Bachelor's degree in Software Engineering - USJT (in progress).
-- [Academic curriculum](http://lattes.cnpq.br/6900029057565501) - Curriculum CNPQ. Click on "Academic Curriculum" to access my academic professional career.
