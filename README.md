@@ -1,15 +1,3 @@
-<h1>  👨‍💻 About Me: </h1>  
-
-<p> Engineering student with interests in Software Development, Data Science, Machine Learning, Software Architecture, and Process Automation. Focused on applying analytical and engineering approaches to the design, development, and optimization of software solutions. </p>  
-
-🌐 This is the English version - EN 
-
-
----
-
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,docker,git,aws,windows,linux,vscode,idea" />
-
----
 
 # 💻 Developing projects with a focus on
 
